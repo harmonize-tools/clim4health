@@ -8,7 +8,7 @@ maturing](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https
 
 ## Overview
 <p style="font-family: Arial, sans-serif; font-size: 14px;">
-clim4health is a tool developed within the HARMONIZE project with the aim of post-processing climate data harmonized to the spatio-temporal aggregation of health data. The tool consists in an R-package and its documentation including examples on how to use the tool and recommendations of parameter selection in some case studies. 
+clim4health is a tool developed within the HARMONIZE project with the aim of post-processing climate data harmonized to the spatiotemporal aggregation of health data. The tool consists in an R-package and its documentation including examples on how to use the tool and recommendations of parameter selection in some case studies. 
 
 The functions that are part of the tool allow for:
 - calibration and quality assessment of climate forecasts
