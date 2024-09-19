@@ -57,7 +57,7 @@ The project consists of resources and [tools](https://harmonize-tools.github.io/
 </table>
 
 
-## Authors / Contact information
+## Authors
 
 </br>
 </br>
